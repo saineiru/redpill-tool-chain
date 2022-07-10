@@ -382,9 +382,13 @@
         "branch": "master"
       },
       "redpill_load": {
-        "source_url": "https://github.com/pocopico/redpill-load.git",
+        "source_url": "https://github.com/jumkey/redpill-load.git",
         "branch": "develop"
       }
+      "build_env": {
+      "jun_mod": 1,
+      "debug": 0
+    }
     },
     {
       "id": "ds920p-7.0.1-42218",
