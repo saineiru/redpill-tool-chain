@@ -1,0 +1,16 @@
+{
+    "extra_cmdline": {
+        "pid": "0x88AA",
+        "vid": "0x88AA",
+        "sn": "19B0PDN598301",
+        "mac1": "001132C10965"
+        "mac2": "0276C60007E6"
+        "mac3": "0276C6000BCE"
+        "netif_num": "3"
+    },
+    "synoinfo": {
+         "maxlanport": "3"
+    },
+    "ramdisk_copy": {},
+    "extensions": []
+}
